@@ -104,7 +104,7 @@
      "sass": "^1.39.0",
      "sass-loader": "^10.2.0",
      "scmp": "^2.1.0",
-     "semver": "^7.3.4",
+     "semver": "^7.5.2",
      "sequelize": "^6.6.0",
      "shimmer": "^1.2.1",
      "sleep-promise": "^9.1.0",
