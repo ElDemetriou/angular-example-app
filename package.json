@@ -88,7 +88,7 @@
      "picomatch": "^2.3.0",
      "pino-pretty": "^5.1.2",
      "pluralize": "^8.0.0",
-     "postcss": "^8.3.6",
+     "postcss": "^8.4.31",
      "prom-client": "^13.1.0",
      "promise-polyfill": "8.2.0",
      "qs": "^6.7.0",
