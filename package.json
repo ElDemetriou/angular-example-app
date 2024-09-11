@@ -82,7 +82,7 @@
      "passport-heroku-addon": "^1.0.0",
      "passport-ldapauth": "^2.1.3",
      "passport-saml": "2.2.0",
-     "path-to-regexp": "^6.2.0",
+     "path-to-regexp": "^8.0.0",
      "pg": "^8.6.0",
      "pg-hstore": "^2.3.2",
      "picomatch": "^2.3.0",
