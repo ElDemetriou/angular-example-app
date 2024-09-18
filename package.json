@@ -101,7 +101,7 @@
      "response-time": "^2.3.2",
      "safe-compare": "^1.1.4",
      "sanitize-html": "^2.4.0",
-     "sass": "^1.39.0",
+     "sass": "^1.79.0",
      "sass-loader": "^10.2.0",
      "scmp": "^2.1.0",
      "semver": "^7.3.4",
