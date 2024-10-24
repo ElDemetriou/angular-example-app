@@ -133,7 +133,7 @@
      "url-join": "4.0.1",
      "uuid": "^8.3.2",
      "validate-npm-package-name": "^3.0.0",
-     "vue": "2.6.12",
+     "vue": "3.0.0",
      "vue-loader": "^0.1.0",
      "vue-material-design-icons": "4.12.1",
      "vue-router": "^3.5.2",
